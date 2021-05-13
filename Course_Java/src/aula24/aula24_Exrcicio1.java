@@ -1,4 +1,4 @@
-package aula24_Exrc;
+package aula24;
 
 import java.util.Locale;
 
