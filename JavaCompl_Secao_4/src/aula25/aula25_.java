@@ -11,6 +11,11 @@
 
 package aula25;
 
+/**
+ * @author Thalles machado
+ *
+ */
+
 public class aula25_ {
 
 	public static void main(String[] args) {
@@ -34,6 +39,7 @@ public class aula25_ {
 		System.out.println(y);
 		
 		System.out.println("-------------------");
+
 //		---> Exemplo 3		
 //		double b, B, h, area;
 //		b = 6.0;
@@ -82,7 +88,11 @@ public class aula25_ {
 		System.out.println(r);
 		System.out.println("-------------------");
 		
-		
+	
+		/**
+		 * @author Thalles machado
+		 *
+		 */
 		
 	}
 

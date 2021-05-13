@@ -9,6 +9,7 @@ package aula30;
 import java.util.Locale;
 import java.util.Scanner;
 
+
 public class Aula30_Exemplo {
 
 	public static void main(String[] args) {
@@ -30,6 +31,13 @@ public class Aula30_Exemplo {
 
 		sc.close();
 
+		
+		
+		
+		/**
+		 * @author Thalles machado
+		 *
+		 */
 	}
 
 }

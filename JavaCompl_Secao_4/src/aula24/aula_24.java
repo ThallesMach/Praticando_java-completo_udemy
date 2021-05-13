@@ -2,6 +2,11 @@ package aula24;
 
 import java.util.Locale;
 
+/**
+ * @author Thalles machado
+ *
+ */
+
 public class aula_24 {
 	
 
@@ -16,6 +21,7 @@ public class aula_24 {
 		System.out.print(" Sem Quebra de Linha ");
 		System.out.println("------------");
 		System.out.println("---///------");
+	
 		
 //		System.out.println(y);
 //		System.out.println(x);
@@ -68,6 +74,11 @@ public class aula_24 {
  * 		•Exemplos
 	*/	
 		
+
+		/**
+		 * @author Thalles machado
+		 *
+		 */
 		
 	}
 

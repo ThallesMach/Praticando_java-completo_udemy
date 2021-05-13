@@ -4,6 +4,11 @@
 
 package aula27;
 
+/**
+ * @author Thalles machado
+ *
+ */
+
 import java.util.Scanner;
 
 public class Aula27_ {
@@ -22,6 +27,7 @@ public class Aula27_ {
 //		System.out.println(s3);
 
 		System.out.println("-----//---------");
+
 		System.out.println();
 //		--> ATENÇÃO: quebra de linha pendente
 		int x;
@@ -52,6 +58,11 @@ public class Aula27_ {
 
 		sc.close();
 
+		/**
+		 * @author Thalles machado
+		 *
+		 */
+		
 	}
 
 }

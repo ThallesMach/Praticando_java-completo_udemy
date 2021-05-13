@@ -3,6 +3,11 @@
 
 package aula26;
 
+/**
+ * @author Thalles machado
+ *
+ */
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -33,11 +38,13 @@ public class Aula26_ {
 		
 		System.out.println("--------//----------");
 		
+		
 /*		ATENÇÃO:
 			Para considerar o separador de decimais como ponto, ANTESda declaração do Scanner, 
 				faça:
 					Locale.setDefault(Locale.US);
 */
+		
 		Locale.setDefault(Locale.US);  // Agora tem q Digita com Ponto  " . "
 		Scanner sc = new Scanner(System.in);
 		
@@ -50,6 +57,10 @@ public class Aula26_ {
 		
 		sc.close();
 
+		/**
+		 * @author Thalles machado
+		 *
+		 */
 	}
 
 }

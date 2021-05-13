@@ -75,6 +75,7 @@ public class Aula30_Exercicio_06 {
 		
 		System.out.println("---------------------///////////////---------------------------");
 
+		
 		System.out.println("-------------------------/////-------------------------------");
 
 		System.out.println("---------------- Outro jeito com Scanner --------------------");
@@ -110,11 +111,11 @@ public class Aula30_Exercicio_06 {
 		
 		sc.close();
 		
+		
 		/**
 		 * @author Thalles machado
 		 *
 		 */
-
 	}
 
 }
