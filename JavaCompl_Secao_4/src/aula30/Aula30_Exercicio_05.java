@@ -1,5 +1,5 @@
 
-//	---> Seção-4 Aula30-Exercício 04  ---> 13/05/2021.
+//	---> Seção-4 Aula30-Exercício 05  ---> 13/05/2021.
 
 package aula30;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author Thalles machado
  *
  */
-public class Aula30_Exercicio_04 {
+public class Aula30_Exercicio_05 {
 
 	public static void main(String[] args) {
 
