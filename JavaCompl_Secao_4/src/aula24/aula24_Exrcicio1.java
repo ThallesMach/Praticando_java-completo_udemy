@@ -2,6 +2,11 @@ package aula24;
 
 import java.util.Locale;
 
+/**
+ * @author Thalles machado
+ *
+ */
+
 public class aula24_Exrcicio1 {
 	
 	public static void main(String[] args) {
@@ -16,6 +21,7 @@ public class aula24_Exrcicio1 {
 		double price1 = 2100.0;
 		double price2 = 650.50;
 		double measure= 53.234567;
+	
 		
 /*		Em seguida, usando os valores das variáveis, produza a seguinte saída na tela do console:
  * 		Products:
@@ -44,7 +50,11 @@ public class aula24_Exrcicio1 {
 		System.out.printf("US decimal point: %.3f%n", measure);
 		System.out.println("------------------///-------------------------");
 		
-		
+
+		/**
+		 * @author Thalles machado
+		 *
+		 */
 	}
 
 }

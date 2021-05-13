@@ -45,6 +45,7 @@ public class Aula30_Exercicio_05 {
 		System.out.println("-------------------------/////-------------------------------");
 		System.out.println("         --- Exercício Feito em Código Java --- ");
 
+		
 		Locale.setDefault(Locale.US);
 		
 		double a = 1, b = 5.30, c = 2, d = 5.10; 
@@ -111,6 +112,13 @@ public class Aula30_Exercicio_05 {
 		System.out.println("////////////////////////// FIM ////////////////////////////////");
 		
 		sc.close();
+	
+	
+		
+/**
+ * @author Thalles machado
+ *
+ */
 	}
 
 }

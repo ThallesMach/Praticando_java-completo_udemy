@@ -4,6 +4,11 @@
 
 package aula28;
 
+/**
+ * @author Thalles machado
+ *
+ */
+
 public class Aula28_ {
 
 	public static void main(String[] args) {
@@ -37,6 +42,7 @@ public class Aula28_ {
 		System.out.println("Valor absoluto de "+ z+ " = "+ B);
 		
 		System.out.println("-------------------------------");
+	
 		
 //		--->Funções matemáticas
 //			•sqrt–raiz quadrada
@@ -44,7 +50,12 @@ public class Aula28_ {
 //			•abs–valor absoluto
 //			•Exemplos
 //				Maiores informações: java.lang.Math
+	
 		
+		/**
+		 * @author Thalles machado
+		 *
+		 */
 	}
 
 }

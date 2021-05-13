@@ -7,6 +7,11 @@
 
 package aula26;
 
+/**
+ * @author Thalles machado
+ *
+ */
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -14,6 +19,7 @@ public class Aula26_01 {
 
 	public static void main(String[] args) {
 
+		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
@@ -38,6 +44,12 @@ public class Aula26_01 {
 		
 		sc.close();
 
+		
+		/**
+		 * @author Thalles machado
+		 *
+		 */
+		
 	}
 
 }

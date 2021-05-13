@@ -68,7 +68,12 @@ public class Aula30_Exercicio_02 {
 	    
 		sc.close();
 		
+	
 		
+		/**
+		 * @author Thalles machado
+		 *
+		 */
 	}
 
 }

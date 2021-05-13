@@ -34,6 +34,7 @@ public class Aula30_Exercicio_04_1 {
 
 		System.out.println("zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz");
 		
+		
 		System.out.println("-------------------------/////-------------------------------");
 		System.out.println("         --- Exercício Feito em Código Java --- ");
 
@@ -83,11 +84,11 @@ public class Aula30_Exercicio_04_1 {
 		
 		sc.close();
 		
+		
 		/**
 		 * @author Thalles machado
 		 *
-		 */
-		
+		 */	
 	}
 
 }
