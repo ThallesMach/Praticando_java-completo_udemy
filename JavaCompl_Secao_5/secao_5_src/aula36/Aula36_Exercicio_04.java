@@ -1,8 +1,8 @@
 
-//	--->Seção-5 Aula35-Exercício 04
+//	--->Seção-5 Aula36-Exercício 04
 
 
-package aula35;
+package aula36;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author machado
  *
  */
-public class Aula35_Exercicio_04 {
+public class Aula36_Exercicio_04 {
 
 	
 	public static void main(String[] args) {

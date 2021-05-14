@@ -1,8 +1,8 @@
 
-//	--->Seção-5 Aula36-Exercício 06
+//	--->Seção-5 Aula37-Exercício 06
 
 
-package aula36;
+package aula37;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author machado
  *
  */
-public class Aula36_Exercicio_06 {
+public class Aula37_Exercicio_06 {
 
 	public static void main(String[] args) {
 
