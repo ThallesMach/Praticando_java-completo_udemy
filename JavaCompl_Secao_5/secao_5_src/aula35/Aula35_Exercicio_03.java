@@ -21,7 +21,7 @@ public class Aula35_Exercicio_03 {
 		System.out.println("   'São Multiplos' ou Não são Multiplos', " );
 		System.out.println("   indicando se os valores lidos são múltiplos entre si. Atenção: ");
 		System.out.println("   os números devem poder ser digitados em ordem crescente ou decrescente.");
-		System.out.println("-----------------------------------");
+		System.out.println("-------------------------------------------");
 		System.out.println(" * Exemplos ");
 		System.out.println("    Entrada:  6, 24 | Saída: São Multiplos ");
 		System.out.println("    Entrada:  6, 25 | Saída: Não São Multiplos");
@@ -44,11 +44,11 @@ public class Aula35_Exercicio_03 {
 				System.out.println(" ---> Não São Multiplos ");
 		}
 		
+		sc.close();
 
 		System.out.println("        ---> FIM <--- ");
 		System.out.println("---------------------------------------------------------------------------");
 		
-		sc.close();
 	}
 
 }
