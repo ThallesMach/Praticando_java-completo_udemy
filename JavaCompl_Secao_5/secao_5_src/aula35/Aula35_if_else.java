@@ -18,17 +18,30 @@ public class Aula35_if_else {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		int minutos = sc.nextInt();
-		double conta = 50.0;
-		if (minutos > 100) {
-			conta += (minutos - 100) * 2.0;
-		}
-		System.out.printf("Valor da conta = R$ %.2f%n", conta);
-
-		System.out.println("--------------------------------------------------");
 		
+		System.out.println(" Quantas horas? ");
+		int horas = sc.nextInt();
+		
+		if (horas < 12) {
+			System.out.println(" Bom dia");
+		}
+		else if (horas < 18) {
+				System.out.println(" Boa Tarde");		
+		}
+		
+		else {
+				System.out.println(" Boa Noite");
+		}
+		
+		System.out.println("--------------------------------------------------");
+				
 		sc.close();
 
 	}
 
 }
+
+/**
+ * @author Thalles machado
+ *
+ */
