@@ -1,5 +1,5 @@
 
-//	--->Seção-5 Aula36-Exercício 02
+//	--->Seção-5: Estrutura condicional - Aula36-Exercício 02  -->14/05/2021.
 
 
 package aula36;

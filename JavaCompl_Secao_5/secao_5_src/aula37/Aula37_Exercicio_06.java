@@ -1,5 +1,5 @@
 
-//	--->Seção-5 Aula37-Exercício 06
+//	--->Seção-5: Estrutura condicional - Aula37-Exercício 06  -->14/05/2021.
 
 
 package aula37;
@@ -8,7 +8,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- * @author machado
+ * @author Thalles machado
  *
  */
 public class Aula37_Exercicio_06 {
@@ -20,10 +20,10 @@ public class Aula37_Exercicio_06 {
 		System.out.println("    dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) ");
 		System.out.println("    este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos,");
 		System.out.println("    deverá ser impressa a mensagem “Fora de intervalo”.");
-		System.out.println("--------------------------------------------");
+		System.out.println("------------------------------------------------");
 		System.out.println(" * Exemplos ");
-		System.out.println("    Entrada:  25.01 | Saída: Intervalo (25,50] ");
-		System.out.println("    Entrada:  25.00 | Saída: Intervalo [0,25] ");
+		System.out.println("    Entrada:   25.01 | Saída: Intervalo (25,50] ");
+		System.out.println("    Entrada:   25.00 | Saída: Intervalo [0,25] ");
 		System.out.println("    Entrada:  100.00 | Saída: Intervalo (75,100] ");
 		System.out.println("    Entrada:  -25.02 | Saída: Fora de intervalo ");
 		System.out.println("--------------------------------------------------------");
@@ -64,6 +64,6 @@ public class Aula37_Exercicio_06 {
 
 
 /**
- * @author machado
+ * @author Thalles machado
  *
  */

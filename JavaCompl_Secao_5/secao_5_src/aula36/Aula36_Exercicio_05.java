@@ -1,5 +1,5 @@
 
-//	--->Seção-5 Aula36-Exercício 05
+//	--->Seção-5: Estrutura condicional - Aula36-Exercício 05  -->14/05/2021.
 
 package aula36;
 
@@ -17,7 +17,7 @@ public class Aula36_Exercicio_05 {
 		System.out.println("------------------------------------------------------------------------------------");
 		System.out.println("-->Com base na tabela abaixo, escreva um programa que leia o código de um item");
 		System.out.println("    e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.");
-		System.out.println(" --- O código do item, está em imagem no PDF de Exercícios Aula35 --- ");
+		System.out.println(" --- O código do item, está em imagem no PDF de Exercícios Aula36 --- ");
 		System.out.println("--------------------------------------------");
 		System.out.println(" * Exemplos ");
 		System.out.println("    Entrada:  3, 2 | Saída: Total: R$ 10.00 ");
