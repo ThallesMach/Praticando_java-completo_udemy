@@ -1,8 +1,7 @@
-import java.util.Scanner;
 
-/*
- * 
- */
+//	-----> Seção-5 Teste inicial   -->14/05/2021.
+
+import java.util.Scanner;
 
 /**
  * @author Thalles machado
@@ -24,8 +23,11 @@ public class TesteClass {
 		
 		System.out.println(X);
 		
-		
 		sc.close();
+		
+		System.out.println("        ---> FIM <--- ");
+		System.out.println("-------------------------------------");
+
 	}
 
 }

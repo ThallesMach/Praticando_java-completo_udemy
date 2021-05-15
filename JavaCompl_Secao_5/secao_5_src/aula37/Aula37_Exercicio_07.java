@@ -1,5 +1,5 @@
 
-//	--->Seção-5 Aula37-Exercício 07
+//	--->Seção-5: Estrutura condicional - Aula37-Exercício 07   -->14/05/2021.
 
 package aula37;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author Thalles machado
  *
  */
-public class Aula37_Exercicio07 {
+public class Aula37_Exercicio_07 {
 
 	
 	public static void main(String[] args) {
@@ -27,9 +27,9 @@ public class Aula37_Exercicio07 {
 		
 		System.out.println("--------------------------------------------");
 		System.out.println(" * Exemplos ");
-		System.out.println("    Entrada: 4.5  -2.2 | Saída: Q4 ");
-		System.out.println("    Entrada   0.1  0.1 | Saída: Q3 ");
-		System.out.println("    Entrad:   0.0  0.0 | Saída: Origiem ");
+		System.out.println("    Entrada:  4.5  -2.2 | Saída: Q4 ");
+		System.out.println("    Entrada:   0.1  0.1 | Saída: Q3 ");
+		System.out.println("    Entrada:   0.0  0.0 | Saída: Origiem ");
 		System.out.println("--------------------------------------------------------");
 		System.out.println("-------------------//////////---------------------------");
 		System.out.println("	-------	Código em Java	-------	");

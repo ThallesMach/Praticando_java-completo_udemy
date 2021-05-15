@@ -1,5 +1,5 @@
 
-//	--->Seção-5 Aula36-Exercício 04
+//	--->Seção-5: Estrutura condicional - Aula36-Exercício 04  -->14/05/2021.
 
 
 package aula36;
@@ -7,7 +7,7 @@ package aula36;
 import java.util.Scanner;
 
 /**
- * @author machado
+ * @author Thalles machado
  *
  */
 public class Aula36_Exercicio_04 {
@@ -22,7 +22,7 @@ public class Aula36_Exercicio_04 {
 		System.out.println("    sabendo que o mesmo pode começar em um dia e terminar em outro,");
 		System.out.println("    tendo uma duração mínima de 1 hora e máxima de 24 horas.");
 
-		System.out.println("---------------------------------------");
+		System.out.println("-----------------------------------------------------");
 		System.out.println(" * Exemplos ");
 		System.out.println("    Entrada: 16,  2 | Saída: O JOGO DUROU 10 HORA(S) ");
 		System.out.println("    Entrada:  0,  0 | Saída: O JOGO DUROU 24 HORA(S) ");
@@ -60,6 +60,6 @@ public class Aula36_Exercicio_04 {
 
 
 /**
- * @author machado
+ * @author Thalles machado
  *
  */

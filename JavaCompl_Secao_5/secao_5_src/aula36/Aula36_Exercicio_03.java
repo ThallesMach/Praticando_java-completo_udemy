@@ -1,5 +1,5 @@
 
-//	--->Seção-5 Aula36-Exercício 03
+//	--->Seção-5: Estrutura condicional - Aula36-Exercício 03  -->14/05/2021.
 
 package aula36;
 
@@ -21,7 +21,7 @@ public class Aula36_Exercicio_03 {
 		System.out.println("   'São Multiplos' ou Não são Multiplos', " );
 		System.out.println("   indicando se os valores lidos são múltiplos entre si. Atenção: ");
 		System.out.println("   os números devem poder ser digitados em ordem crescente ou decrescente.");
-		System.out.println("-------------------------------------------");
+		System.out.println("----------------------------------------------");
 		System.out.println(" * Exemplos ");
 		System.out.println("    Entrada:  6, 24 | Saída: São Multiplos ");
 		System.out.println("    Entrada:  6, 25 | Saída: Não São Multiplos");
