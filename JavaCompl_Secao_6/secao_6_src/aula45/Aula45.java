@@ -17,7 +17,7 @@ public class Aula45 {
 
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("Digita Nº decrescente 5 á 0 : ");
+		System.out.println("* Digita Nº decrescente 5 á 0 : ");
 		int x = sc.nextInt();
 
 		int soma = 0;
