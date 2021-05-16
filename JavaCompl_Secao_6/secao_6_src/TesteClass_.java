@@ -24,6 +24,7 @@ public class TesteClass_ {
 		System.out.println(X);
 		
 		sc.close();
+		System.out.println(" Teste Class OK ");
 		
 		System.out.println("        ---> FIM <--- ");
 		System.out.println("-------------------------------------");
