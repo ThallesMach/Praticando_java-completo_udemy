@@ -7,7 +7,7 @@ package aula46;
  * @author Thalles machado
  *
  */
-public class Aula46 {
+public class Aula46_Teste_de_Mesa {
 
 	
 	public static void main(String[] args) {

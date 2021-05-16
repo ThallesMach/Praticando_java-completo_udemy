@@ -1,7 +1,7 @@
 
 //		---> Seção-6 Aula 49 - Exercício 02   -->16/05/2021.
 
-package aula49;
+package aula49_Exercicio;
 
 import java.util.Scanner;
 
