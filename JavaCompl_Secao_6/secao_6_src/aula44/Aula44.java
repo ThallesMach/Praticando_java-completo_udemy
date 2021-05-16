@@ -29,8 +29,8 @@ public class Aula44 {
 		
 		double area = largura * comprimento;
 		double preco = area * metroQuadrado;
-		System.out.printf(" AREA = %.2f %n", area);
-		System.out.printf(" PRECO = %.2f %n", preco);
+		System.out.printf(" AREA = %.2f  %n", area);
+		System.out.printf(" PRECO = %.2f  %n", preco);
 
 		sc.close();
 

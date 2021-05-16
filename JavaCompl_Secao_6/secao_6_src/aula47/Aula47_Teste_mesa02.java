@@ -12,7 +12,7 @@ public class Aula47_Teste_mesa02 {
 	public static void main(String[] args) {
 
 		System.out.println("---------------------------------------------------------------");
-		System.out.println("---> Seção-6 Aula 47 - Exercícios de Teste de mesa 02 com while ");
+		System.out.println("-----> Seção-6 Aula 47 - Exercícios de Teste de mesa 02 com while ");
 
 		int x = 2;
 		int y = 0;
