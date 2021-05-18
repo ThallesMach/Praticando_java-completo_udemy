@@ -1,7 +1,7 @@
 
-//	--->Seção-8 Aula 67 - Começando a resolver um segundo problema exemplo  -->17/05/2021.
+//	--->Seção-8 Aula 69 - Finalizando o programa  -->17/05/2021.
 
-package application67;
+package application69;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -12,13 +12,13 @@ import entities69.Product_69;
  * @author Thalles machado
  *
  */
-public class Program_67 {
+public class Program_69 {
 
 	public static void main(String[] args) {
 		
 
 		System.out.println("--------------------------------------------------------------------------");
-		System.out.println("----->Seção-8 Aula 67 - Começando a resolver um segundo problema exemplo ");
+		System.out.println("----->Seção-8 Aula 69 - Finalizando o programa ");
 		System.out.println("--------------------------------------------------------------------------");
 		System.out.println("***Outro exemplo***");
 		System.out.println("-->Fazer um programa para ler os dados de um produto em estoque ");
@@ -58,7 +58,27 @@ public class Program_67 {
 		System.out.print("Quantity in Stock: ");
 		product.quantity =sc.nextInt();
 		
-		System.out.println(product.name +", "+ product.price +", "+ product.quantity );
+//		System.out.println(product.name +", "+ product.price +", "+ product.quantity );
+		
+		
+		System.out.println();
+		System.out.println("Product data: "+ product );  //  Object e toString
+		
+		System.out.println();
+		System.out.println("Entrer the nember of products to be added in stock: ");
+		int quantity = sc.nextInt();
+		product.addProducts(quantity);
+		
+		System.out.println();
+		System.out.println("Update data: "+ product );  //  Object e toString		
+		
+		System.out.println();
+		System.out.println("Entrer the nember of products to be Removed in stock: ");
+		quantity = sc.nextInt();
+		product.removeProducts(quantity);
+		
+		System.out.println();
+		System.out.println("Update data: "+ product );  //  Object e toString		
 		
 		
 		sc.close();
