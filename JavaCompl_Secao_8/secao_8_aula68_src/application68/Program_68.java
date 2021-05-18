@@ -1,7 +1,7 @@
 
-//	--->Seção-8 Aula 67 - Começando a resolver um segundo problema exemplo  -->17/05/2021.
+//	--->Seção-8 Aula 68 - Object e toString  -->17/05/2021.
 
-package application67;
+package application68;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -12,13 +12,13 @@ import entities69.Product_69;
  * @author Thalles machado
  *
  */
-public class Program_67 {
+public class Program_68 {
 
 	public static void main(String[] args) {
 		
 
 		System.out.println("--------------------------------------------------------------------------");
-		System.out.println("----->Seção-8 Aula 67 - Começando a resolver um segundo problema exemplo ");
+		System.out.println("----->Seção-8 Aula 68 - Object e toString ");
 		System.out.println("--------------------------------------------------------------------------");
 		System.out.println("***Outro exemplo***");
 		System.out.println("-->Fazer um programa para ler os dados de um produto em estoque ");
@@ -58,7 +58,11 @@ public class Program_67 {
 		System.out.print("Quantity in Stock: ");
 		product.quantity =sc.nextInt();
 		
-		System.out.println(product.name +", "+ product.price +", "+ product.quantity );
+//		System.out.println(product.name +", "+ product.price +", "+ product.quantity );
+		
+		
+		//  Object e toString
+		System.out.println( product );	// System.out.println( product.toString() );
 		
 		
 		sc.close();
