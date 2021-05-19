@@ -6,7 +6,8 @@ package application68;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities69.Product_69;
+import entities68.Product_68;
+
 
 /**
  * @author Thalles machado
@@ -49,7 +50,7 @@ public class Program_68 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		Product_69 product = new Product_69();
+		Product_68 product = new Product_68();
 		System.out.println("Entrer product data: ");
 		System.out.print("Name: ");
 		product.name = sc.nextLine();
