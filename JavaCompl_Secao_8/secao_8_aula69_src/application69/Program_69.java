@@ -34,15 +34,15 @@ public class Program_69 {
 	
 		System.out.println("--------------------------------------------------------------------------");
 		System.out.println(" *Exemplo: ");
-		System.out.println(" Enterproductdata: ");
+		System.out.println(" Enter product data: ");
 		System.out.println(" Name: TV	");
 		System.out.println(" Price: 900.00	");
-		System.out.println(" Quantityin stock: 10	");
-		System.out.println(" Productdata: TV, $ 900.00, 10 units, Total: $ 9000.00     ");
+		System.out.println(" Quantity in stock: 10	");
+		System.out.println(" Product data: TV, $ 900.00, 10 units, Total: $ 9000.00     ");
 		System.out.println(" Enter the number of products to be added in stock: 5      ");
-		System.out.println(" Updateddata: TV, $ 900.00, 15 units, Total: $ 13500.00    ");
+		System.out.println(" Updated data: TV, $ 900.00, 15 units, Total: $ 13500.00    ");
 		System.out.println(" Enter the number of products to be removed from stock: 3  ");
-		System.out.println(" Updateddata: TV, $ 900.00, 12 units, Total: $ 10800.00    ");
+		System.out.println(" Updated data: TV, $ 900.00, 12 units, Total: $ 10800.00    ");
 		
 		System.out.println("-------------------------------------------------------------");
 		System.out.println("-------------------//////////--------------------------------");
