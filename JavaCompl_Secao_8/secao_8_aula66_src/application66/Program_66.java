@@ -21,11 +21,11 @@ public class Program_66 {
 		System.out.println("--->Seção-8 Aula66-Criando um método para obtermos os benefícios de reaproveitamento e deleg… ");
 		System.out.println("--------------------------------------------------------------------------------------------------");
 		System.out.println("***Problema exemplo***");
-		System.out.println("-->Fazer um programapara ler as medidas dos lados de dois triângulos X e Y  ");
+		System.out.println("-->Fazer um programa para ler as medidas dos lados de dois triângulos X e Y  ");
 		System.out.println("    (suponha medidas válidas).Em seguida, mostrar o valor das áreas dos dois  ");
 		System.out.println("    triângulos e dizer qual dos dois triângulos possui a maior área.");
 		System.out.println("  A fórmula para calcular a área de um triângulo a partir das medidas ");
-		System.out.println("   de seus lados a, b e c é a seguinte(fórmuladeHeron): ");
+		System.out.println("   de seus lados a, b e c é a seguinte(fórmula de Heron): ");
 		
 		System.out.println("--------------------------------------------------------------------------");
 		System.out.println(" *Exemplo: ");
@@ -69,9 +69,9 @@ public class Program_66 {
 		System.out.printf("Triangle Y area: %.4f%n", areaY);
 		
 		if(areaX> areaY) {
-			System.out.println("Largerarea: X");
+			System.out.println("Larger area: X");
 		}else {
-			System.out.println("Largerarea: Y");
+			System.out.println("Larger area: Y");
 		}
 		sc.close();
 		

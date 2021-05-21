@@ -6,7 +6,7 @@ package application71_02;
 import java.util.Locale;
 import java.util.Scanner;
 
-import util72.Calculator72;
+import util71_02.Calculator71_02;
 
 /**
  * @author Thalles machado
@@ -41,7 +41,7 @@ public class Program_71_02 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		Calculator72 calcul = new Calculator72();
+		Calculator71_02 calcul = new Calculator71_02();
 		
 		System.out.print("Enter radius: ");
 		double radius = sc.nextDouble();
